@@ -271,7 +271,7 @@ full_sentence = "Python is awesome"
 # a) Convert it to all uppercase
 # b) Count how many times the letter 'a' appears (case-insensitive)
 # c) Replace your first name with "Python"
-your_name = "Om Sharma"
+your_name = "Om Patel"
 # TODO: Write your code here
 
 # Solution:
@@ -295,7 +295,7 @@ your_name = "Om Sharma"
 
 # Exercise 4: Email Username Extractor [MEDIUM]
 # Given an email address, extract just the username (part before @)
-email = "om.sharma@example.com"
+email = "om.Patel@example.com"
 # Hint: Use .find() to locate '@', then use slicing
 # TODO: Write your code here
 
