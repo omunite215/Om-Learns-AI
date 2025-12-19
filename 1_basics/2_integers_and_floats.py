@@ -2,11 +2,7 @@
 ================================================================================
 PYTHON FUNDAMENTALS: INTEGERS AND FLOATS
 ================================================================================
-File: basics/2_integers_and_floats.py
-Author: Om
-Date: 2024-12-16
-Source: Corey Schafer - Python Tutorial for Beginners
-Status: ✅ Completed
+Day: 1
 
 Description:
     Comprehensive guide to numeric data types in Python including integers

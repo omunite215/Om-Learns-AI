@@ -2,11 +2,7 @@
 ================================================================================
 PYTHON FUNDAMENTALS: CONDITIONALS AND BOOLEANS
 ================================================================================
-File: 2_control-flow/1_conditionals_and_booleans.py
-Author: Om
-Date: 2024-12-17
-Source: Corey Schafer - Python Tutorial for Beginners
-Status: ✅ Completed
+Day: 3
 
 Description:
     Comprehensive guide to Python conditional statements and boolean logic.

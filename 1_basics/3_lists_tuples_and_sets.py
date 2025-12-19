@@ -2,11 +2,7 @@
 ================================================================================
 PYTHON FUNDAMENTALS: LISTS, TUPLES, AND SETS
 ================================================================================
-File: 1_basics/3_lists_tuples_sets.py
-Author: Om
-Date: 2024-12-17
-Source: Corey Schafer - Python Tutorial for Beginners
-Status: ✅ Completed
+Day: 2
 
 Description:
     Comprehensive guide to Python's core collection data types: lists, tuples,

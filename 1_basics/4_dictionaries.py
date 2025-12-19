@@ -2,11 +2,7 @@
 ================================================================================
 PYTHON FUNDAMENTALS: DICTIONARIES
 ================================================================================
-File: 1_basics/4_dictionaries.py
-Author: Om
-Date: 2024-12-17
-Source: Corey Schafer - Python Tutorial for Beginners
-Status: ✅ Completed
+Day: 2
 
 Description:
     Comprehensive guide to Python dictionaries - key-value pair data structures.

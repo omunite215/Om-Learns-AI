@@ -2,8 +2,7 @@
 ================================================================================
 PYTHON FUNDAMENTALS: STRING OPERATIONS
 ================================================================================
-File: basics/1_strings.py
-Date: 2024-12-16
+Day: 1
 
 Description:
     Comprehensive guide to Python string operations including creation,

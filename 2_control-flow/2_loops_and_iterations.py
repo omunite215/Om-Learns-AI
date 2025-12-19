@@ -2,11 +2,8 @@
 ================================================================================
 PYTHON FUNDAMENTALS: LOOPS AND ITERATIONS
 ================================================================================
-File: 2_control-flow/2_loops_and_iterations.py
-Author: Om
-Date: 2024-12-17
-Source: Corey Schafer - Python Tutorial for Beginners
-Status: ✅ Completed
+
+Day: 3
 
 Description:
     Comprehensive guide to Python loops and iteration techniques. Covers for
