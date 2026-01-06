@@ -27,9 +27,8 @@
 
 ### 📈 Overall Progress
 
-![Progress](https://progress-bar.dev/5/?title=Journey&width=400&color=6366f1)
-
-**1 of 20 modules completed**
+![Progress](https://img.shields.io/badge/Journey-5%25_Complete-6366f1?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-1_of_20-22c55e?style=for-the-badge)
 
 </div>
 
@@ -248,18 +247,21 @@ flowchart TD
 <td align="center" width="33%">
 
 ### 📚 Learn
+
 Read theory, understand concepts, follow tutorials
 
 </td>
 <td align="center" width="33%">
 
 ### 💻 Code
+
 Type every example, do exercises, experiment
 
 </td>
 <td align="center" width="33%">
 
 ### 🏗️ Build
+
 Create projects, solve real problems, deploy
 
 </td>
@@ -295,11 +297,12 @@ git log --oneline
 
 ---
 
-## 🛠️ Tech Stack Used
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages & Libraries
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -308,6 +311,7 @@ git log --oneline
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Tools & Platforms
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -416,8 +420,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 Made with ❤️ by [Om Patel](https://github.com/omunite215)
-![logo](<final profile.png>)
+![alt text](<final profile.png>)
 </div>
