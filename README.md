@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Zero+to+Hero+in+AI+%26+Machine+Learning;A+Complete+Learning+Roadmap;From+Python+to+Production+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=cZero+to+Hero+in+AI+%26+Machine+Learning;A+Complete+Learning+Roadmap;From+Python+to+Production+ML" alt="Typing SVG" />
 
 <br/>
 
