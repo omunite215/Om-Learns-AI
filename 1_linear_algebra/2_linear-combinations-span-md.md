@@ -228,21 +228,5 @@ PCA finds a new basis where:
 - [ ] How many vectors do you need to span 3D space?
 - [ ] If `v` and `w` are independent, can `2v + 3w = 0`?
 
----
 
-## Up Next
-
-**Chapter 3: Linear Transformations and Matrices**  
-→ What happens when we transform the basis vectors?  
-→ Matrices as transformations (this is where it gets powerful!)
-
----
-
-## Notes / Questions for Later
-
-<!-- Add your own confusions or insights here -->
-
-```
-- 
-- 
-```
+![Logo](<../final profile.png>)
