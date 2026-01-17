@@ -288,3 +288,4 @@ The determinant accounts for how the transformation stretches/compresses space.
 - [ ] What does det = 0 tell you about the columns of a matrix?
 - [ ] Can a rotation matrix have a negative determinant?
 
+![Logo](<../final profile.png>)

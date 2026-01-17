@@ -256,3 +256,5 @@ The whole network is a composition of transformations.
 - [ ] Why is `(AB)C = A(BC)` true geometrically?
 - [ ] Can you compute `[[1,2],[3,4]] × [[0,1],[1,0]]` by hand?
 - [ ] Why do neural networks need non-linear activation functions?
+
+![Logo](<../final profile.png>)

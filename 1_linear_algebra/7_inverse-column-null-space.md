@@ -314,3 +314,5 @@ Layer with weight matrix W:
 - [ ] Can Ax = b have a solution if b is not in the column space?
 - [ ] If A is 3×3 with rank 2, what's the nullity?
 - [ ] Why does multicollinearity cause problems in linear regression?
+
+![Logo](<../final profile.png>)

@@ -270,3 +270,4 @@ end_position = T1 @ T2 @ T3 @ base_position
 - [ ] What size matrix transforms a 784D vector to a 256D vector?
 - [ ] Why can't we visualize a 784-dimensional transformation directly?
 
+![Logo](<../final profile.png>)
